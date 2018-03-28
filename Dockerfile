@@ -6,6 +6,7 @@ RUN apt-get update && apt-get install -y \
     python-pip \
     curl \
     git \
+    mysql-client \
     unzip \
     wget
 
