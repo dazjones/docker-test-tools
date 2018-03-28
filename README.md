@@ -1,8 +1,13 @@
-#docker-test-tools
+# docker-test-tools
 
 Suite of useful testing tools packaged up into Docker
 
-## Currently installed
+## Currently Installed
 - Selenium
 - MySQL Client
 - Curl
+
+## Usage
+```
+docker pull darrenjones/docker-test-tools
+```
